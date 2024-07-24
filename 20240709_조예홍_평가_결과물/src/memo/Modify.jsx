@@ -2,11 +2,11 @@ import React from "react";
 
 
 
-const Logout = () => {
+const Modifymodal = () => {
   return (
     <div></div>
 
   );
 };
 
-export default Logout;
+export default Modifymodal;

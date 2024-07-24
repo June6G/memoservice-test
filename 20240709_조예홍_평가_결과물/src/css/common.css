@@ -1,0 +1,30 @@
+li {
+    list-style: none;
+}
+
+a {
+
+    text-decoration: none;
+    color: #242424;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+input.txt_field {
+    padding: 10px 15px; margin: 2px;
+    font-size: 101em;
+    color: #383838;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+}
+
+input.basic_button,
+button.basic_button {
+    padding: 10px 20px;
+    font-size: 1.1em;
+    color: #383838;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+}
