@@ -2,11 +2,11 @@ import React from "react";
 
 
 
-const Modifymodal = () => {
+const MemoList = () => {
   return (
     <div></div>
 
   );
 };
 
-export default Modifymodal;
+export default MemoList;
